@@ -1,0 +1,17 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore R and jupyter 
+.ipynb_checkpoints
+.idea
+
+
+# Ignore node_modules folder
+archive
+syllabus
+keys
+team
+exam
+data
+*.sqlite
+private
